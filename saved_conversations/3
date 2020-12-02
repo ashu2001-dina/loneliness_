@@ -1,0 +1,15 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : my name is ash
+bot : - Hi ,nice to meet you
+user : i have weakness
+bot : - This is a symptom of fever, you should take a tablet of metacin after you have your meal.
+user : ok i will take metacin
+bot : - let me know if you are feeling better after having metacin.
+user : i have headache
+bot : - what kind of headache do you have : 1. Migrane headache - intense throbbing pain on just one side of the head. 2. Cluster headaches - severe and recurrent headaches 3. Tension Headache - Ocassional;
+user : Tension Headache - Ocassional;
+bot : - symptom noted. The cause of tension headaches is unclear, but stress, anxiety, and depression are common triggers. You should consult a doctor. And do meditation.
+user : thank you
+bot : - always welcome
+user : bye
+bot : - Bye. Nice talking to you
