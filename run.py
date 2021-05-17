@@ -9,7 +9,7 @@ from chatterbot.trainers import ListTrainer
 filenumber=int(os.listdir('saved_conversations')[-1])
 filenumber=filenumber+1
 file= open('saved_conversations/'+str(filenumber),"w+")
-file.write('bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.\n')
+file.write('bot : Hi There! My name is Ashia.\n')
 file.close()
 
 app = Flask(__name__)
@@ -45,5 +45,5 @@ def get_bot_response():
 
 
 if __name__ == "__main__":
-    port = int(os.environ.get('PORT',5000))
-    app.run(tport=port, host="0.0.0.0")
+    
+    app.run()

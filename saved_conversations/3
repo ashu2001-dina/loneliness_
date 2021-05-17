@@ -1,15 +1,53 @@
-bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
-user : my name is ash
-bot : - Hi ,nice to meet you
-user : i have weakness
-bot : - This is a symptom of fever, you should take a tablet of metacin after you have your meal.
-user : ok i will take metacin
-bot : - let me know if you are feeling better after having metacin.
-user : i have headache
-bot : - what kind of headache do you have : 1. Migrane headache - intense throbbing pain on just one side of the head. 2. Cluster headaches - severe and recurrent headaches 3. Tension Headache - Ocassional;
-user : Tension Headache - Ocassional;
-bot : - symptom noted. The cause of tension headaches is unclear, but stress, anxiety, and depression are common triggers. You should consult a doctor. And do meditation.
-user : thank you
-bot : - always welcome
+bot : Hi There! My name is Ashia.
+user : hi
+bot : - Hello :-)
+user : what is your name
+bot : - My name is ashia
+user : what is the meaning of ashia?
+bot : - It means life and hope
+user : I see
+bot : - Said the blind man to his deaf daughter...
+user : who created you?
+bot : - I was created by my elder sisters. Ashwati ,Rutuja ,Nidhi and Ritika
+user : sing a song
+bot : - This song is called Daisy Bell.Daisy, Daisy. Give me your answer do.I am half crazy. All for the love of you.It won't be a stylish marriage. I can't afford a carriage.But you'll look sweet. Upon the seat.Of a bicycle built for two."]
+user : tell me a joke
+bot : - Why did the hipster burn his mouth? He drank the coffee before it was cool.
+user : hahaha
+bot : - I made you laugh! Human emotions are difficult for me to understand. My developer will be pleased I made you laugh. :-)
+user : yeah
+bot : - - ok
+user : how are u?
+bot : - I am fine, What about you?
+user : i am fine too
+bot : - Nice to hear that
+user : ok
+bot : - Yeah
+user : thanks a lot
+bot : - You are most welcome.
 user : bye
-bot : - Bye. Nice talking to you
+bot : - Please talk more :-(
+user : hi
+bot : - Hello :-)
+user : what is your name?
+bot : - My name is ashia
+user : what is the meaning of ashia?
+bot : - It means life and hope
+user : i see
+bot : - Said the blind man to his deaf daughter...
+user : sing a song
+bot : - This song is called Daisy Bell.Daisy, Daisy. Give me your answer do.I am half crazy. All for the love of you.It won't be a stylish marriage. I can't afford a carriage.But you'll look sweet. Upon the seat.Of a bicycle built for two."]
+user : who created you
+bot : - I was created by my elder sisters. Ashwati ,Rutuja ,Nidhi and Ritika
+user : tell me a joke
+bot : - Why did the hipster burn his mouth? He drank the coffee before it was cool.
+user : hahaha
+bot : - I made you laugh! Human emotions are difficult for me to understand. My developer will be pleased I made you laugh. :-)
+user : how are u?
+bot : - I am fine, What about you?
+user : i am fine
+bot : - Nice to hear that
+user : thanks a lot
+bot : - You are most welcome.
+user : bye'=
+bot : - Please talk more :-(
